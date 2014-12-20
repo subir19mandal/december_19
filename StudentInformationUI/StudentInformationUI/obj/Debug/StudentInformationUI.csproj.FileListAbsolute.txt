@@ -1,0 +1,18 @@
+E:\subir\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.exe.config
+E:\subir\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.exe
+E:\subir\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.pdb
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.csprojResolveAssemblyReference.cache
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.StudentInfo.resources
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.Properties.Resources.resources
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.csproj.GenerateResource.Cache
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.exe
+E:\subir\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.pdb
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.exe.config
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.exe
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.csprojResolveAssemblyReference.cache
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.StudentInfo.resources
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.Properties.Resources.resources
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.csproj.GenerateResource.Cache
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.exe
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\bin\Debug\StudentInformationUI.pdb
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInformationUI\StudentInformationUI\obj\Debug\StudentInformationUI.pdb

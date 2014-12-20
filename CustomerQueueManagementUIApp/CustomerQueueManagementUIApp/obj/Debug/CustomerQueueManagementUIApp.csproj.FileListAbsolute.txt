@@ -1,0 +1,9 @@
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\bin\Debug\CustomerQueueManagementUIApp.exe.config
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\bin\Debug\CustomerQueueManagementUIApp.exe
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\bin\Debug\CustomerQueueManagementUIApp.pdb
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.csprojResolveAssemblyReference.cache
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.Properties.Resources.resources
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.csproj.GenerateResource.Cache
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.exe
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.pdb
+E:\Mehedi_19.12.14\CustomerQueueManagementUIApp\CustomerQueueManagementUIApp\obj\Debug\CustomerQueueManagementUIApp.CustomerService.resources

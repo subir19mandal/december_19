@@ -1,0 +1,9 @@
+E:\subir\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+E:\subir\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csprojResolveAssemblyReference.cache
+E:\subir\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe
+E:\subir\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.pdb
+E:\subir\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+E:\subir\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+F:\FTFL\ASP.net\Day_8 (19.12.2014)\Subir (19.12.2014)\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb
